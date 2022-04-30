@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "labels", "labels\labels.vbproj", "{E7CE95F9-5DC2-4F35-AFAE-8DB21048C745}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{064C09E2-21DA-4FA9-A996-DFD2FAA51C74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7CE95F9-5DC2-4F35-AFAE-8DB21048C745}.Debug|x86.ActiveCfg = Debug|x86
+		{E7CE95F9-5DC2-4F35-AFAE-8DB21048C745}.Debug|x86.Build.0 = Debug|x86
+		{E7CE95F9-5DC2-4F35-AFAE-8DB21048C745}.Release|x86.ActiveCfg = Release|x86
+		{E7CE95F9-5DC2-4F35-AFAE-8DB21048C745}.Release|x86.Build.0 = Release|x86
+		{064C09E2-21DA-4FA9-A996-DFD2FAA51C74}.Debug|x86.ActiveCfg = Debug
+		{064C09E2-21DA-4FA9-A996-DFD2FAA51C74}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
